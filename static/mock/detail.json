@@ -1,0 +1,24 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "北京海洋馆(AAAA景区)",
+    "bannerImg": "http://img1.qunarzz.com/sight/p0/201404/23/04b92c99462687fa1ba45c1b5ba4ad77.jpg_600x330_bf9c4904.jpg",
+    "galleryImgs": ["http://img1.qunarzz.com/sight/p0/201404/23/04b92c99462687fa1ba45c1b5ba4ad77.jpg_800x800_70debc93.jpg", "http://img1.qunarzz.com/sight/p0/1709/76/7691528bc7d7ad3ca3.img.png_800x800_9ef05ee7.png"],
+    "categoryList": [{
+      "title": "成人票",
+      "children": [{
+        "title": "北京动物园+北京海洋馆联票",
+        "children": [{
+          "title": "北京动物园+北京海洋馆成人票（当天6点可定）"
+        }, {
+          "title": "【随买随用】北京动物园+北京海洋馆成人票"
+        }]
+      }]
+    }, {
+      "title": "儿童票"
+      }, {
+      "title": "学生票"}
+    ]
+  }
+
+}
